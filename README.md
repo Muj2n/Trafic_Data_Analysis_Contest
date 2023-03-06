@@ -1,5 +1,4 @@
-# Trafic_Data_Analysis_Contest
-지역 치안 안전 데이터 분석 경진대회
+# 지역 치안 안전 데이터 분석 경진대회
 
 ![공모전](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe7cdff27-5a0a-4621-a39e-c1cbee8bbc6a%2FUntitled.png?id=30744b0c-1200-4c6d-b3b2-7a7b3d3a4d42&table=block&spaceId=9727eabb-4038-46b7-8d39-30cf12cd1784&width=2000&userId=898f4dde-0981-45a1-a9c8-0fe2336b4c50&cache=v2)
 
